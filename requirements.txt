@@ -27,6 +27,7 @@ Django==1.11.13
 django-jsonfield==1.0.1
 django-redisboard==3.0.2
 django-util-js==0.0.15
+django-extensions==2.1.6
 enum34==1.1.6
 et-xmlfile==1.0.1
 Events==0.3
@@ -122,3 +123,4 @@ zope.interface==4.5.0
 twython==3.7.0
 zeep==2.5.0
 ConcurrentLogHandler==0.9.1
+geoip2==2.8.0
