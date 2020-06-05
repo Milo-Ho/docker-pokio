@@ -23,7 +23,7 @@ constantly==15.1.0
 cryptography==2.3.1
 dataset==0.8.0
 dbpost==0.2.21
-Django==1.11.13
+Django==1.11.29
 django-jsonfield==1.0.1
 django-redisboard==3.0.2
 django-util-js==0.0.15
