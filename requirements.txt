@@ -20,7 +20,7 @@ cffi==1.11.5
 chardet==3.0.4
 click==6.7
 constantly==15.1.0
-cryptography==2.3.1
+cryptography==3.2
 dataset==0.8.0
 dbpost==0.2.21
 Django==1.11.13
