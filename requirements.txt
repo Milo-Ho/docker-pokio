@@ -14,7 +14,7 @@ billiard==3.3.0.23
 burst==1.1.11
 burst-statsd==0.2.1
 buzz-agent==1.1.16
-celery==3.1.17
+celery==5.2.2
 certifi==2018.8.13
 cffi==1.11.5
 chardet==3.0.4
